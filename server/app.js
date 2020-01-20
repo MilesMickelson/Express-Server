@@ -22,7 +22,7 @@ app.get('/data', function (req, res) {
 })
 
 app.get('*', function( req, res){
-  res.status(404).send('Sorry, no page found');
+  res.status(404).send('Sorry, no page was found at that URL');
 });
 
 module.exports = app;
