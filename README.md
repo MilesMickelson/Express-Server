@@ -1,13 +1,10 @@
 # Node101-Express-Server
-Second project in the Node101 course at San Diego Code School, this simple project demonstrates creating 
-an Express server with a .json file in the backend and creating a route to it for a user to see 
-that files data.
 
-Please feel free to demo the project by taking these steps.. 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-1. Clone or fork the repo 
-2. $ npm install 
-3. $ npm start (which will build and run on local server 3000)
-4. Open up your browser to view on localhost 3000
+Second project in the Node101 course at San Diego Code School, this project demonstrates creating 
+an Express server with a local data.json file and a /data route to it to view that files content.
 
-Thank you, Miles Mickelson
+#### Please feel free to review the code in this repository as there is no front end feature to visualize.
+
+* **Thank you**, ***-Miles Mickelson***
